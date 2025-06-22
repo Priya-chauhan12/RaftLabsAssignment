@@ -1,0 +1,56 @@
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Visual Studio folders
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET secrets (if ever added)
+secrets.json
+
+# DotCover
+*.dcvr
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Global JSON (keep if you're using global.json)
+!global.json
+
+# Ignore local config
+appsettings.*.local.json
